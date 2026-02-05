@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# KiCad caches/temp
+fp-info-cache
+
+# Backup/autosave
+*-backups/
+*_autosave-*
+
+# Common temporary files
+*.tmp
+*.bak
